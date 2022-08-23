@@ -1,0 +1,465 @@
+
+@media(max-width: 1200px)
+{
+
+}
+
+@media(max-width:1024px)
+{
+
+}
+
+@media (max-width: 991px){
+    /*sanni*/
+    .top-imh p {
+  max-width: 100%;
+  margin-top: 0px;
+}
+    .top-imh {
+  background-image: url("../images/our-strategic-img.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 100%;
+  min-height: 620px;
+}
+    .sticky-sidebar {
+      display: none;
+  }
+  .awardsrightsec {
+      padding-left: 0;
+      border-left: 0px solid #ccc;
+  }
+  .green-box {
+      background-color: #2d9947;
+      padding: 20px;
+      margin-top: 35px;
+      margin-bottom: 35px;
+  }
+  .blue-bg {
+      background-color: #0069aa;
+  }
+  .markes-notes li {
+      width: 50%;
+      float: left;
+      font-size: 16px;
+      list-style: square;
+  }
+  .introduce-page .awardsrightsec {
+      padding-bottom: 40px;
+  }
+  .capsa-imgs img {
+      padding: 10px 0px;
+  }
+  .ensure-in p {
+    background-color: rgba(33, 149, 210, 0.6);
+    padding: 20px;
+    color: #fff;
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+  .ensure-in {
+      width: 100%;
+      min-height: auto;
+      background-image: url("../images/ensure.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      padding: 20px;
+  }
+  .sustain-info {
+      min-height: auto;
+      margin: 10px 0px;
+  }
+  .qouates-bg-n {
+      width: 100%;
+      min-height: auto;
+      background-image: url("../images/pradeep-singh-box.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: center;
+      padding: 0;
+      position: relative;
+      top: 0;
+      left: 15px;
+  }
+  .qouates-bg-n {
+    width: 100%;
+    min-height: auto;
+    background-image: url(../images/pradeep-singh-box.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+  .qouates-bg {
+      width: 100%;
+      min-height: auto;
+      padding: 15px;
+      position: relative;
+      top: 100%;
+      left: 0;
+      background-color: #34454f;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+  }
+  .soial-initiatives-page .awardsrightsec {
+      padding-bottom: 40px;
+  }
+  .half-w {
+      width: calc(100% - 28px);
+      float: left;
+  }
+  .bg-light-g {
+      background-color: #f3f8e8;
+      padding: 35px 20px;
+      position: relative;
+      min-height: auto;
+      margin-left: 28px;
+  }
+  .half-w2 {
+      width: calc(100% - 28px);
+      float: left;
+      margin-right: 28px;
+  }
+  .brder-right::after {
+      content: "";
+      display: block;
+      position: absolute;
+      right: 21px;
+      top: 5px;
+      width: 0px;
+      height: 91px;
+      background-color: #ccc;
+  }
+  .number-lists {
+      margin: 15px 0px;
+  }
+  .orange-box {
+      background-color: #f7941e;
+      padding: 20px;
+      display: block;
+      gap: 60px;
+      margin: 35px 0px;
+  }
+  .org-left {
+      margin-bottom: 20px;
+  }
+  .being-responsible-page .awardsrightsec {
+      margin-bottom: 40px;
+  }
+  .health-and-safety-page .awardsrightsec {
+      padding-bottom: 40px;
+  }
+  .mg-number .number-lists h3 {
+      color: #932784;
+  }
+  .number-lists h3 {
+      font-size: 50px;
+      color: #f7941e;
+      font-family: AcuminPro-Black;
+      line-height: 1;
+  }
+  .mn-number .number-lists h3 {
+    color: #5c2d91;
+    font-size: 50px;
+}
+.green-number .number-lists h3 {
+  color: #72bf44;
+  font-size: 50px;
+}
+.capitals-body.panel-body {
+    padding: 15px 0px;
+}
+.mb-mar-t30{
+    margin-top: 30px;
+}
+.giving-acor .mda-panel .panel-heading h4 a {
+    color: inherit;
+    font-size: 18px;
+}
+.governance-prep ul {
+    padding-left: 30px;
+    padding-right: 15px;
+    border-bottom: 1px solid #00c0f3;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+    min-height: auto;
+}
+.governance-prep.process-t ul {
+    border-bottom: 1px solid #f7941e;
+}
+.risk-awarness {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    margin-bottom: 80px;
+    padding-bottom: 40px;
+}
+.org-box-risk {
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #f7931e;
+    padding: 28px 20px;
+    margin-bottom: 0;
+}
+.mar-t70 {
+    margin-top: 40px;
+}
+.orgd-bg {
+    background-image: url(../images/line-1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: auto;
+    background-position: left;
+    background-size: contain;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+.inner-og-bg {
+    background-image: url(../images/line-2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 220px;
+    background-size: contain;
+    padding: 0px 0px 0px 20px;
+    margin-bottom: 30px;
+    background-position: left;
+    position: relative;
+    margin-top: 30px;
+    display: inline-block;
+}
+.plus-sign::after {
+    content: "+";
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 60px;
+    font-size: 40px;
+    color: #72bf44;
+    font-family: Proxima-Nova-Bold;
+    left: 40px;
+    
+}
+.equal-sign::after {
+    content: "=";
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 60px;
+    font-size: 40px;
+    color: #72bf44;
+    font-family: Proxima-Nova-Bold;
+    left: 40px;
+    
+}
+.first-number .number-lists h3 {
+    font-size: 55px;
+    margin-bottom: 40px;
+}
+.ltype-bg {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+    display: block;
+}
+.left-l {
+    width: 100%;
+    float: none;
+}
+.right-r {
+    width: 100%;
+    float: none;
+    padding: 0;
+    margin-top: 20px;
+}
+.imgs-rl {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+}
+.power--num .number-lists h3 {
+    font-size: 50px;
+}
+.marks-note li {
+    list-style: square;
+    width: 33.33%;
+    float: left;
+    font-size: 16px;
+}
+.seven-slider {
+    padding-top: 70px;
+}
+ol.remove-dotp {
+    counter-reset: item;
+    list-style-type: none;
+    padding-left: 0;
+}
+ol.remove-dotp li::before {
+    content: counter(item) " ";
+    counter-increment: item;
+    font-size: 25px;
+    font-family: Proxima-Nova-Thin;
+}
+.water-bg {
+    width: 100%;
+    min-height: auto;
+    background-image: url(../images/management-of-water-icon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+.soial-initiatives-page .number-lists {
+    margin-bottom: 20px;
+}
+.init-svg img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+.initiatives {
+    max-width: 100%;
+    width: 100%;
+}
+.initiatives {
+    display: block;
+    gap: 60px;
+}
+.process-inner {
+  background-color: #e9f7fd;
+  padding: 15px 15px 0px 15px;
+  border-radius: 25px;
+  border: 2px solid #00c0f3;
+  min-height: 549px;
+}
+/*sanni*/
+.menu, .nav-icon3 {
+    display: none;
+}	
+
+
+.my-sidenav {
+    width: 0px;
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    z-index: 999999999;
+    height: 100vh;
+    max-width: 0px;
+    width: 100%;
+    background-color:#337ab7;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+}
+.my-sidenav>ul {
+    padding: 0px 20px 0px;
+}
+.my-sidenav>ul>li>ul {
+    margin-top: 0px;
+    display: none;
+}
+.my-sidenav ul.submenu li ul.submenu {
+    display: none;
+    position: static;
+    width: 100%;
+}
+.my-sidenav ul {
+    list-style-type: none;
+    padding-left: 15px;
+}
+.my-sidenav ul li
+{
+    border-bottom: 1px solid #ffffff;
+    padding: 15px 0px;
+}
+.my-sidenav > ul > li > ul >li
+{
+    border-bottom: 1px solid #ffffff;
+    padding: 10px 0px;
+}
+.my-sidenav > ul > li > ul >li:last-child, .my-sidenav ul.submenu li ul.submenu li:last-child
+{
+    border-bottom: 0px;
+}
+.my-sidenav ul.submenu li ul.submenu li {
+    border-bottom: 1px solid #ffffff;
+    padding: 10px 10px;
+}
+.my-sidenav ul.submenu li ul.submenu li a {
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.cross-btn1 {
+    text-align: right;
+    padding: 16px 14px 0px 0px;
+    color: #fff;
+    font-size: 35px;
+    cursor: pointer;
+}
+.my-sidenav .submenu-indicator-minus .submenu-indicator {
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.my-sidenav .submenu-indicator {
+    font-size: 30px;
+    position: absolute;
+    line-height: 25px;
+    right: 15px;
+}
+.my-sidenav>ul>li>a {
+    color: #ffffff;
+    font-size:18px;
+    display:block;
+    font-family: Frutiger-Bold;
+}
+.my-sidenav>ul>li>ul>li>a {
+    color: #ffffff;
+    font-size: 14px;
+}
+.my-sidenav>ul>li>ul>li>a img
+{
+    padding-right: 10px;
+    float: right;
+}
+
+
+}
+
+
+@media (max-width: 767px){
+
+}
+@media (max-width: 580px)
+{
+
+}
+@media (max-width: 420px)
+{
+
+}
+@media (max-width: 380px)
+{
+
+
+}
+@media (max-width: 360px)
+{
+
+}
+@media (max-width: 320px)
+{
+
+}
